@@ -1,0 +1,21 @@
+#title1 {
+    margin: 23px;
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: 400;
+}
+
+#title2 {
+    margin: 23px;
+    font-size: 1.5rem;
+    color: #000;
+    font-weight: 400;
+}
+
+.btn-secondary {
+    margin-left: 250px;
+}
+
+.btn-danger {
+    margin-left: 25px;
+}
